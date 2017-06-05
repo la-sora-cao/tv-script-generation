@@ -1,0 +1,5 @@
+*.gz
+*.p
+cifar-10-batches-py
+__pycache__
+*.data-00000-of-00001
